@@ -1,5 +1,5 @@
 🏥 Hospital Management System
-A full-featured Hospital Management System built using Spring Boot, Spring Data JPA, MySQL, and Thymeleaf (or React/Angular if used). It manages patients, doctors, appointments, billing, and more in a hospital environment.
+A full-featured Hospital Management System built using Spring Boot, Spring Data JPA, MySQL, and . It manages patients, doctors, appointments, billing, and more in a hospital environment.
 
 📌 Features
 👨‍⚕️ Doctor Module: Add, update, delete doctor profiles.
